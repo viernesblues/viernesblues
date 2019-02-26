@@ -1,0 +1,24 @@
+languageCode = "es-ar"
+defaultContentLanguage = "es"
+title = "Viernes Blues"
+baseURL = "https://hugo-theme-massively.netlify.com/"
+theme = "hugo-theme-massively"
+googleanalytics = ""
+disqusShortname = ""
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     foldername = "post"
+#     pagesize = "6"
+#     featuredpost = "true"
+
+[languages]
+[languages.es]
+  languageName = "Español"
+#[languages.en]
+#  languageName = "English"
+#  title = "Viernes Blues - English Version"
